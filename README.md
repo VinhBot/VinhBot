@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="https://1.bp.blogspot.com/-hN0NCoAmEDY/X8z1OcRjXmI/AAAAAAAAlc0/hHqbHzqOPhIABiVomzpYacPeEufV816QQCNcBGAsYHQ/w350-h265-p-k-no-nu/hinh-nen-may-cuc-dep.jpg" width = "200" alt="TNT">
 	</a>
 </p>
 
