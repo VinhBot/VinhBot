@@ -9,8 +9,8 @@
 <h2 align="center">About me</h2>
 
 ```js
-async function VinhBot(cmds, finfomoderation){
-
+async function VinhBot(finfomoderation){
+   infomoderation()
 }
 
 const CSCD-NguyenVinh = new MessageEmbed()
