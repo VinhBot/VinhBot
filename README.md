@@ -9,11 +9,9 @@
 <h2 align="center">About me</h2>
 
 ```js
-async function VinhBot(nguyenvinh){
-   infomoderation()
-}
-
 const CSCD-NguyenVinh = new MessageEmbed()
+   .setTitle("Thông tin của Tui")
+   .addFields({ name: "", value: "" true})
 ```
 ## <p align="center">Bạn có thể liên hệ với tôi tại</p>
 
