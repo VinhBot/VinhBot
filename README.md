@@ -9,8 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```js
-async function VinhBot(){
-
+async function VinhBot(cmds, finfomoderation){
 
 }
 
