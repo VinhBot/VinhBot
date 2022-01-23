@@ -26,6 +26,11 @@ namespace TNT
 }
 ```
 
+```js
+const CSCD-NguyenVinh = new MessageEmbed()
+```
+
+
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
