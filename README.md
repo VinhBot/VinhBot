@@ -9,9 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```js
-const CSCD-NguyenVinh = new MessageEmbed()
-   .setTitle("Thông tin của Tui")
-   .addFields({ name: "", value: "" true})
+const CSCD-NguyenVinh 
 ```
 
 ```C#
