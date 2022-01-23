@@ -9,6 +9,11 @@
 <h2 align="center">About me</h2>
 
 ```js
+async function VinhBot(){
+
+
+}
+
 const CSCD-NguyenVinh = new MessageEmbed()
 ```
 
