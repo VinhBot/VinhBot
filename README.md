@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```js
-async function VinhBot(finfomoderation){
+async function VinhBot(nguyenvinh){
    infomoderation()
 }
 
