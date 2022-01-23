@@ -17,38 +17,22 @@ const CSCD-NguyenVinh = new MessageEmbed()
 ```
 
 
-## <p align="center">You can reach me at 🌹</p>
+## <p align="center">Bạn có thể liên hệ với tôi tại</p>
 
 <p align="center">
   <a href="https://www.facebook.com/BlackCat.2k3">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
-	
-  <a href="https://github.com/ngoctienTNT">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+
+  <a href="mailto:vinhdocle2k3@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
-	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+  <a href="https://www.tiktok.com/@blackcat_2k3/">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://www.youtube.com/">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
