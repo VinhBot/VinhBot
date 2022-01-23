@@ -1,7 +1,7 @@
 # <p align="center">Nguyễn Văn Vinh</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
+	<a href="">
 	<img src="https://1.bp.blogspot.com/-hN0NCoAmEDY/X8z1OcRjXmI/AAAAAAAAlc0/hHqbHzqOPhIABiVomzpYacPeEufV816QQCNcBGAsYHQ/w350-h265-p-k-no-nu/hinh-nen-may-cuc-dep.jpg" width = "200" alt="TNT">
 	</a>
 </p>
@@ -20,7 +20,7 @@ const CSCD-NguyenVinh = new MessageEmbed()
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/BlackCat.2k3">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
