@@ -15,7 +15,7 @@ const CSCD-NguyenVinh = new MessageEmbed()
 ```
 
 ```C#
-namespace TNT
+namespace Nuyễn_Văn_vinh
 {
     class ngoctienTNT
     {
