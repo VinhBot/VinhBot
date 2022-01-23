@@ -13,6 +13,25 @@ const CSCD-NguyenVinh = new MessageEmbed()
    .setTitle("Thông tin của Tui")
    .addFields({ name: "", value: "" true})
 ```
+
+```C++
+namespace TNT
+{
+    class ngoctienTNT
+    {
+        static void Main(string[] args)
+        {
+            string Name = "Trần Ngọc Tiến";
+            string Age = "2002";
+            string Gender = "Male";
+            string Address = "Khánh Hòa, Việt Nam";
+            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+        }
+    }
+}
+```
 ## <p align="center">Bạn có thể liên hệ với tôi tại</p>
 
 <p align="center">
