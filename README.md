@@ -14,7 +14,7 @@ const CSCD-NguyenVinh = new MessageEmbed()
    .addFields({ name: "", value: "" true})
 ```
 
-```js
+```C#
 namespace TNT
 {
     class ngoctienTNT
