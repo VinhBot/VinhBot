@@ -8,8 +8,6 @@
 
 <h2 align="center">About me</h2>
 
-```
-
 ```js
 const CSCD-NguyenVinh = new MessageEmbed()
 ```
