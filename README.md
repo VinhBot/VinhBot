@@ -8,22 +8,6 @@
 
 <h2 align="center">About me</h2>
 
-```C#
-namespace TNT
-{
-    class ngoctienTNT
-    {
-        static void Main(string[] args)
-        {
-            string Name = "Nguyễn Văn Vinh";
-            string Age = "2002";
-            string Gender = "Male";
-            string Address = "Vĩnh Phúc, Việt Nam";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
-        }
-    }
-}
 ```
 
 ```js
