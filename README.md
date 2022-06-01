@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```js
-const CSCD-NguyenVinh 
+const CSDDBB-NguyenVinh 
 ```
 
 ```C#
